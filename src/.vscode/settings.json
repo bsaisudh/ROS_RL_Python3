@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/bala/anaconda3/envs/ros_test/bin/python",
+    "cmake.configureOnOpen": true
+}

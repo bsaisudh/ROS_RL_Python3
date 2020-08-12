@@ -1,0 +1,14 @@
+
+build/
+
+devel/
+
+src/geometry_msgs/
+
+src/sensor_msgs/
+
+src/std_msgs/
+
+src/vision_opencv/
+
+src/beginner_tutorials/detectron2/
